@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on software for hardware control.
 - 📫 How to reach me; 
 
-Stuart T. Smith, Professor,
+Stuart T. Smith,
 
 Department of Mechanical Engineering and Engineering Science, DCH258
 
