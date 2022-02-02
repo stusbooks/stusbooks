@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stuart Smith
-- 👀 I’m interested in mechatronics development for precision applications and scientific instrument and machine design.
+- 👀 I’m interested in mechatronics development for precision applications, and scientific instrument and machine design.
 - 🌱 I’m continuously learning new skills in manufacturing, fabrication, and control of Precision Opto Electro Mechanical Systems (POEMS)
 - 💞️ I’m looking to collaborate on software for hardware control.
 - 📫 How to reach me; 
